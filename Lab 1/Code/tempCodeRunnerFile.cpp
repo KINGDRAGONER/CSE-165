@@ -1,0 +1,1 @@
+transform(word.begin(), word.end(), word.begin(), ::tolower);
